@@ -12,4 +12,4 @@ MPI018 - PROBABILIDADE E ESTATÍSTICA DESCRITIVA PARA GESTORES
 Base de dados: 
 * https://github.com/ect-info/ml/blob/master/dados/PWMxVelocidade.csv
 * https://github.com/ect-info/ml/blob/master/dados/Salary_Data.csv
-* https://github.com/ect-info/ml/blob/master/dados/pop_brasil.csv 
+* https://raw.githubusercontent.com/ect-info/ml/master/dados/pop_brasil.csv
