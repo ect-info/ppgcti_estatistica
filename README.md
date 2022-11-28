@@ -18,8 +18,9 @@ Base de dados:
 
 ### Breve introdução sobre Arvore de Decisão 
 
-* Livro para consulta: 
+* Livros para consulta: 
   * "Data Science Para Negócios: O que Você Precisa Saber Sobre Mineração de Dados e Pensamento Analítico de Dados" 
+  * "Data Science do Zero: PRIMEIRAS REGRAS COM O PYTHON."
 
 * Material complementar:
   * [Decision Tree Classifier explained in real-life: picking a vacation destination](https://towardsdatascience.com/decision-tree-classifier-explained-in-real-life-picking-a-vacation-destination-6226b2b60575)
@@ -28,3 +29,9 @@ Base de dados:
 * Exemplos de códigos: 
   * [Classificação com Flor de Íris](https://colab.research.google.com/drive/13P5o4r_xQ2oAAGLEvlVCA9gYoX8gG7vG?usp=sharing) 
   * [Escolhendo um destino para férias](https://colab.research.google.com/drive/1QEWMWQfGQ3WUZRB1x3DgXsHa7eLgrq2r?usp=sharing)
+
+
+## Referências: 
+* McKinney Wes. 2017. Python for data analysis (2nd. ed.). O'Reilly Media, Inc.
+* Tom Fawcett, Foster Provost. Data Science para Negócios: O que você precisa saber sobre mineração de dados e pensamento analítico de dados. Editora Alta Books, 2018. ISBN 8550803901, 9788550803906 
+* Joel Grus. Data Science do Zero. Editora Alta Books, 2016. ISBN: 9788576089988   
