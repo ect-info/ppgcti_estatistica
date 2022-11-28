@@ -14,3 +14,17 @@ Base de dados:
 * https://github.com/ect-info/ml/blob/master/dados/PWMxVelocidade.csv
 * https://github.com/ect-info/ml/blob/master/dados/Salary_Data.csv
 * https://raw.githubusercontent.com/ect-info/ml/master/dados/pop_brasil.csv
+
+
+### Breve introdução sobre Arvore de Decisão 
+
+* Livro para consulta: 
+  * "Data Science Para Negócios: O que Você Precisa Saber Sobre Mineração de Dados e Pensamento Analítico de Dados" 
+
+* Material complementar:
+  * [Decision Tree Classifier explained in real-life: picking a vacation destination](https://towardsdatascience.com/decision-tree-classifier-explained-in-real-life-picking-a-vacation-destination-6226b2b60575)
+  * [Scikit-learn: Decision Trees](https://scikit-learn.org/stable/modules/tree.html) 
+
+* Exemplos de códigos: 
+  * [Classificação com Flor de Íris](https://colab.research.google.com/drive/13P5o4r_xQ2oAAGLEvlVCA9gYoX8gG7vG?usp=sharing) 
+  * [Escolhendo um destino para férias](https://colab.research.google.com/drive/1QEWMWQfGQ3WUZRB1x3DgXsHa7eLgrq2r?usp=sharing)
