@@ -33,6 +33,9 @@ Base de dados:
 * https://github.com/ect-info/ml/blob/master/dados/Salary_Data.csv
 * https://raw.githubusercontent.com/ect-info/ml/master/dados/pop_brasil.csv
 
+Atividade: 
+* Escolher uma base de dados e implementar uma regressão linera simples. Pode usar a base de dados do [crescimento populacional brasileiro](https://raw.githubusercontent.com/ect-info/ml/master/dados/pop_brasil.csv): 
+
 
 ### Breve introdução sobre Arvore de Decisão 
 
