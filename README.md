@@ -1,6 +1,16 @@
 # Estatística
 MPI018 - PROBABILIDADE E ESTATÍSTICA DESCRITIVA PARA GESTORES
 
+### Estatística Descritiva
+
+* Exemplo de código em python: 
+* Atividade:
+  * Compreender os conceitos de média, mediana, desvio padrão, moda, quartil, covariância e outros a partir do seguinte exemplo: https://colab.research.google.com/drive/1QP1xsJkE_TQLwH_PTF3NrjA2MgVSn3GX?usp=sharing 
+  * Escolher alguns conceitos do exemplo anterior e tentar realizar uma análise com a seguinte base de dados: https://raw.githubusercontent.com/ect-info/ml/master/dados/pib_regioes_brasil.csv 
+  * A análise pode ser para o PIB de um estado ou de uma região do País. Segue um código base https://colab.research.google.com/drive/1xTyz4Wl8NQPYIXrKen5ON3bsX-BTqDi1?usp=sharing
+
+
+
 ### Breve introdução sobre Regressão Linear  
 
 * [Vídeos e Form](https://forms.gle/QWaVAi71GBTnjNYK8) 
